@@ -1,0 +1,41 @@
+#bg
+{
+    background-color:rgb(210,215,255);
+}
+#head
+{
+    background-color: white;
+    width: 300px;
+    height:450px;
+    border-radius: 10px;
+    margin-left: 36.6%;
+    margin-top: 80px;
+}
+#img
+{
+    border-radius: 10px;
+    margin-left:7%;
+    margin-top: 16px;
+}
+#joker
+{
+    margin-top:7%;
+    margin-left:14%;
+    font-family:Comic Sans MS, Comic Sans, cursive;
+    font-size:18px;
+}
+#down
+{
+    margin-top:7%;
+    margin-left:8%;
+    font-family:Comic Sans MS, Comic Sans, cursive;
+    -webkit-text-fill-color: grey;
+    font-size:14.8px;
+}
+#next
+{
+    margin-left:30%;
+    font-family:Comic Sans MS, Comic Sans, cursive;
+    -webkit-text-fill-color: grey;
+    font-size:14.8px;
+}
